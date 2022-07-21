@@ -1,4 +1,4 @@
-package patternFacade.BuyService;
+package patternFacade.buyService;
 
 public class Product {
     private String id;

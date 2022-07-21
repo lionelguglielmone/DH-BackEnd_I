@@ -1,4 +1,4 @@
-package patternFacade.BuyService;
+package patternFacade.buyService;
 
 public class Address {
     private String street;

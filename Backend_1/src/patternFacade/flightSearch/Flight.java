@@ -1,4 +1,4 @@
-package patternFacade.FlightSearch;
+package patternFacade.flightSearch;
 
 public class Flight {
     private String code;

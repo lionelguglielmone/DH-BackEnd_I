@@ -1,4 +1,4 @@
-package patternFacade.FlightSearch;
+package patternFacade.flightSearch;
 
 import java.util.ArrayList;
 import java.util.Calendar;

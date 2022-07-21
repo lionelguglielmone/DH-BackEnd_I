@@ -1,11 +1,11 @@
-package patternFacade.FlightSearch;
+package patternFacade.flightSearch;
 
 import java.util.ArrayList;
 import java.util.Calendar;
 
-public class ProviderA extends ServiceProvider{
+public class ProviderB extends ServiceProvider{
 
-    public ProviderA(String name) {
+    public ProviderB(String name) {
         super(name);
     }
 
