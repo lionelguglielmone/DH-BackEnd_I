@@ -22,4 +22,12 @@ public class Product {
     public Double getPrice() {
         return price;
     }
+
+    public void setQuantity(Integer quantity) {
+        this.quantity = quantity;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
 }
